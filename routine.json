@@ -1,6 +1,6 @@
 {
     "kind": "SCHEDULE_ONLY",
-    "revision": 1795355732587,
+    "revision": 1795355865845,
     "subjects": [
         {
             "id": "sub_d5b26b80",
@@ -328,18 +328,6 @@
             "repeatPattern": 1,
             "parityShiftHistory": {},
             "labGroup": 1
-        },
-        {
-            "id": "ent_9288aacc",
-            "subjectId": "sub_e241c98a",
-            "isLab": true,
-            "teacher": "ALL",
-            "dayOfWeek": 2,
-            "startSlot": 6,
-            "span": 3,
-            "repeatPattern": 0,
-            "parityShiftHistory": {},
-            "labGroup": 2
         }
     ],
     "holidays": [],
