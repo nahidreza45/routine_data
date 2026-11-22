@@ -1,6 +1,6 @@
 {
     "kind": "SCHEDULE_ONLY",
-    "revision": 1795354933795,
+    "revision": 1795355329316,
     "subjects": [
         {
             "id": "sub_d5b26b80",
@@ -186,18 +186,6 @@
             "labGroup": 0
         },
         {
-            "id": "ent_fa5abeed",
-            "subjectId": "sub_af05dcae",
-            "isLab": true,
-            "teacher": "RAR",
-            "dayOfWeek": 3,
-            "startSlot": 0,
-            "span": 3,
-            "repeatPattern": 0,
-            "parityShiftHistory": {},
-            "labGroup": 0
-        },
-        {
             "id": "ent_ad78056b",
             "subjectId": "sub_af05dcae",
             "isLab": false,
@@ -270,19 +258,7 @@
             "labGroup": 0
         },
         {
-            "id": "ent_b1b866ce",
-            "subjectId": "sub_32645c37",
-            "isLab": true,
-            "teacher": "ST",
-            "dayOfWeek": 1,
-            "startSlot": 0,
-            "span": 3,
-            "repeatPattern": 2,
-            "parityShiftHistory": {},
-            "labGroup": 0
-        },
-        {
-            "id": "ent_baa86db8",
+            "id": "ent_e5d56cf0",
             "subjectId": "sub_d5b26b80",
             "isLab": true,
             "teacher": "MKG",
@@ -291,19 +267,67 @@
             "span": 3,
             "repeatPattern": 2,
             "parityShiftHistory": {},
-            "labGroup": 1
+            "labGroup": 2
         },
         {
-            "id": "ent_e395d20a",
-            "subjectId": "sub_e241c98a",
+            "id": "ent_e2b67ead",
+            "subjectId": "sub_32645c37",
             "isLab": true,
-            "teacher": "ALL",
-            "dayOfWeek": 2,
-            "startSlot": 6,
+            "teacher": "ST",
+            "dayOfWeek": 1,
+            "startSlot": 0,
             "span": 3,
             "repeatPattern": 2,
             "parityShiftHistory": {},
-            "labGroup": 0
+            "labGroup": 2
+        },
+        {
+            "id": "ent_f70f1c0b",
+            "subjectId": "sub_b6148076",
+            "isLab": true,
+            "teacher": "MNT",
+            "dayOfWeek": 1,
+            "startSlot": 0,
+            "span": 3,
+            "repeatPattern": 2,
+            "parityShiftHistory": {},
+            "labGroup": 1
+        },
+        {
+            "id": "ent_f25cee52",
+            "subjectId": "sub_af05dcae",
+            "isLab": true,
+            "teacher": "RAR",
+            "dayOfWeek": 3,
+            "startSlot": 0,
+            "span": 3,
+            "repeatPattern": 0,
+            "parityShiftHistory": {},
+            "labGroup": 2
+        },
+        {
+            "id": "ent_5d822915",
+            "subjectId": "sub_af05dcae",
+            "isLab": true,
+            "teacher": "RAR",
+            "dayOfWeek": 4,
+            "startSlot": 0,
+            "span": 3,
+            "repeatPattern": 0,
+            "parityShiftHistory": {},
+            "labGroup": 1
+        },
+        {
+            "id": "ent_39190649",
+            "subjectId": "sub_d5b26b80",
+            "isLab": true,
+            "teacher": "MKG",
+            "dayOfWeek": 2,
+            "startSlot": 0,
+            "span": 3,
+            "repeatPattern": 1,
+            "parityShiftHistory": {},
+            "labGroup": 1
         }
     ],
     "holidays": [],
