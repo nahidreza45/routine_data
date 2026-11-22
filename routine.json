@@ -1,8 +1,299 @@
 {
     "kind": "SCHEDULE_ONLY",
-    "revision": 1795353859101,
-    "subjects": [],
-    "entries": [],
+    "revision": 1795353902410,
+    "subjects": [
+        {
+            "id": "sub_d5b26b80",
+            "code": "ECE 3107",
+            "colorId": "blue",
+            "teachers": [
+                "MKG",
+                "MNT",
+                "GKH"
+            ]
+        },
+        {
+            "id": "sub_af05dcae",
+            "code": "ECE 3111",
+            "colorId": "purple",
+            "teachers": [
+                "MFA",
+                "RAR"
+            ]
+        },
+        {
+            "id": "sub_b6148076",
+            "code": "ECE 3117",
+            "colorId": "green",
+            "teachers": [
+                "HBK",
+                "MNT"
+            ]
+        },
+        {
+            "id": "sub_d7caf965",
+            "code": "ECE 3119",
+            "colorId": "red",
+            "teachers": [
+                "NRP"
+            ]
+        },
+        {
+            "id": "sub_9daa9596",
+            "code": "ECE 3121",
+            "colorId": "amber",
+            "teachers": [
+                "MMR",
+                "RIR"
+            ]
+        },
+        {
+            "id": "sub_32645c37",
+            "code": "CE 3100",
+            "colorId": "teal",
+            "teachers": [
+                "ST"
+            ]
+        },
+        {
+            "id": "sub_e241c98a",
+            "code": "ECE 3100",
+            "colorId": "slate",
+            "teachers": [
+                "ALL"
+            ]
+        }
+    ],
+    "entries": [
+        {
+            "id": "ent_23b6bc26",
+            "subjectId": "sub_d5b26b80",
+            "isLab": false,
+            "teacher": "MKG",
+            "dayOfWeek": 0,
+            "startSlot": 2,
+            "span": 1,
+            "repeatPattern": 0,
+            "parityShiftHistory": {},
+            "labGroup": 0
+        },
+        {
+            "id": "ent_5d48d0e5",
+            "subjectId": "sub_9daa9596",
+            "isLab": false,
+            "teacher": "RIR",
+            "dayOfWeek": 0,
+            "startSlot": 3,
+            "span": 1,
+            "repeatPattern": 0,
+            "parityShiftHistory": {},
+            "labGroup": 0
+        },
+        {
+            "id": "ent_63a3e689",
+            "subjectId": "sub_d7caf965",
+            "isLab": false,
+            "teacher": "NRP",
+            "dayOfWeek": 0,
+            "startSlot": 4,
+            "span": 1,
+            "repeatPattern": 0,
+            "parityShiftHistory": {},
+            "labGroup": 0
+        },
+        {
+            "id": "ent_cad4fef1",
+            "subjectId": "sub_b6148076",
+            "isLab": true,
+            "teacher": "MNT",
+            "dayOfWeek": 1,
+            "startSlot": 0,
+            "span": 3,
+            "repeatPattern": 1,
+            "parityShiftHistory": {},
+            "labGroup": 0
+        },
+        {
+            "id": "ent_def12c5f",
+            "subjectId": "sub_9daa9596",
+            "isLab": false,
+            "teacher": "RIR",
+            "dayOfWeek": 1,
+            "startSlot": 3,
+            "span": 1,
+            "repeatPattern": 0,
+            "parityShiftHistory": {},
+            "labGroup": 0
+        },
+        {
+            "id": "ent_c7a90732",
+            "subjectId": "sub_b6148076",
+            "isLab": false,
+            "teacher": "MNT",
+            "dayOfWeek": 1,
+            "startSlot": 4,
+            "span": 1,
+            "repeatPattern": 0,
+            "parityShiftHistory": {},
+            "labGroup": 0
+        },
+        {
+            "id": "ent_17c63540",
+            "subjectId": "sub_af05dcae",
+            "isLab": false,
+            "teacher": "RAR",
+            "dayOfWeek": 1,
+            "startSlot": 5,
+            "span": 1,
+            "repeatPattern": 0,
+            "parityShiftHistory": {},
+            "labGroup": 0
+        },
+        {
+            "id": "ent_0d47f1c1",
+            "subjectId": "sub_d5b26b80",
+            "isLab": false,
+            "teacher": "MKG",
+            "dayOfWeek": 2,
+            "startSlot": 3,
+            "span": 1,
+            "repeatPattern": 0,
+            "parityShiftHistory": {},
+            "labGroup": 0
+        },
+        {
+            "id": "ent_6182c225",
+            "subjectId": "sub_af05dcae",
+            "isLab": false,
+            "teacher": "RAR",
+            "dayOfWeek": 2,
+            "startSlot": 4,
+            "span": 1,
+            "repeatPattern": 0,
+            "parityShiftHistory": {},
+            "labGroup": 0
+        },
+        {
+            "id": "ent_d571b114",
+            "subjectId": "sub_d7caf965",
+            "isLab": false,
+            "teacher": "NRP",
+            "dayOfWeek": 2,
+            "startSlot": 5,
+            "span": 1,
+            "repeatPattern": 0,
+            "parityShiftHistory": {},
+            "labGroup": 0
+        },
+        {
+            "id": "ent_fa5abeed",
+            "subjectId": "sub_af05dcae",
+            "isLab": true,
+            "teacher": "RAR",
+            "dayOfWeek": 3,
+            "startSlot": 0,
+            "span": 3,
+            "repeatPattern": 0,
+            "parityShiftHistory": {},
+            "labGroup": 0
+        },
+        {
+            "id": "ent_ad78056b",
+            "subjectId": "sub_af05dcae",
+            "isLab": false,
+            "teacher": "RAR",
+            "dayOfWeek": 3,
+            "startSlot": 3,
+            "span": 1,
+            "repeatPattern": 0,
+            "parityShiftHistory": {},
+            "labGroup": 0
+        },
+        {
+            "id": "ent_b9321335",
+            "subjectId": "sub_b6148076",
+            "isLab": false,
+            "teacher": "MNT",
+            "dayOfWeek": 3,
+            "startSlot": 4,
+            "span": 1,
+            "repeatPattern": 0,
+            "parityShiftHistory": {},
+            "labGroup": 0
+        },
+        {
+            "id": "ent_93e98b2a",
+            "subjectId": "sub_9daa9596",
+            "isLab": false,
+            "teacher": "RIR",
+            "dayOfWeek": 3,
+            "startSlot": 5,
+            "span": 1,
+            "repeatPattern": 0,
+            "parityShiftHistory": {},
+            "labGroup": 0
+        },
+        {
+            "id": "ent_87bfce1b",
+            "subjectId": "sub_d5b26b80",
+            "isLab": false,
+            "teacher": "MKG",
+            "dayOfWeek": 4,
+            "startSlot": 3,
+            "span": 1,
+            "repeatPattern": 0,
+            "parityShiftHistory": {},
+            "labGroup": 0
+        },
+        {
+            "id": "ent_7e41d5c7",
+            "subjectId": "sub_d7caf965",
+            "isLab": false,
+            "teacher": "NRP",
+            "dayOfWeek": 4,
+            "startSlot": 4,
+            "span": 1,
+            "repeatPattern": 0,
+            "parityShiftHistory": {},
+            "labGroup": 0
+        },
+        {
+            "id": "ent_36e0626f",
+            "subjectId": "sub_b6148076",
+            "isLab": false,
+            "teacher": "MNT",
+            "dayOfWeek": 4,
+            "startSlot": 5,
+            "span": 1,
+            "repeatPattern": 0,
+            "parityShiftHistory": {},
+            "labGroup": 0
+        },
+        {
+            "id": "ent_b1b866ce",
+            "subjectId": "sub_32645c37",
+            "isLab": true,
+            "teacher": "ST",
+            "dayOfWeek": 1,
+            "startSlot": 0,
+            "span": 3,
+            "repeatPattern": 2,
+            "parityShiftHistory": {},
+            "labGroup": 0
+        },
+        {
+            "id": "ent_117d58dd",
+            "subjectId": "sub_d5b26b80",
+            "isLab": true,
+            "teacher": "MKG",
+            "dayOfWeek": 2,
+            "startSlot": 0,
+            "span": 3,
+            "repeatPattern": 2,
+            "parityShiftHistory": {},
+            "labGroup": 0
+        }
+    ],
     "holidays": [],
     "cancellations": [],
     "semesterStartDateIso": "2026-11-14",
