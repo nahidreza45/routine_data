@@ -1,6 +1,6 @@
 {
     "kind": "SCHEDULE_ONLY",
-    "revision": 1795353902410,
+    "revision": 1795354933795,
     "subjects": [
         {
             "id": "sub_d5b26b80",
@@ -282,12 +282,24 @@
             "labGroup": 0
         },
         {
-            "id": "ent_117d58dd",
+            "id": "ent_baa86db8",
             "subjectId": "sub_d5b26b80",
             "isLab": true,
             "teacher": "MKG",
             "dayOfWeek": 2,
             "startSlot": 0,
+            "span": 3,
+            "repeatPattern": 2,
+            "parityShiftHistory": {},
+            "labGroup": 1
+        },
+        {
+            "id": "ent_e395d20a",
+            "subjectId": "sub_e241c98a",
+            "isLab": true,
+            "teacher": "ALL",
+            "dayOfWeek": 2,
+            "startSlot": 6,
             "span": 3,
             "repeatPattern": 2,
             "parityShiftHistory": {},
