@@ -1,6 +1,6 @@
 {
     "kind": "SCHEDULE_ONLY",
-    "revision": 1795355865845,
+    "revision": 1795402513077,
     "subjects": [
         {
             "id": "sub_d5b26b80",
@@ -155,7 +155,7 @@
             "isLab": false,
             "teacher": "MKG",
             "dayOfWeek": 2,
-            "startSlot": 3,
+            "startSlot": 4,
             "span": 1,
             "repeatPattern": 0,
             "parityShiftHistory": {},
@@ -167,7 +167,7 @@
             "isLab": false,
             "teacher": "RAR",
             "dayOfWeek": 2,
-            "startSlot": 4,
+            "startSlot": 3,
             "span": 1,
             "repeatPattern": 0,
             "parityShiftHistory": {},
